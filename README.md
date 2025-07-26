@@ -1,4 +1,5 @@
 # CS2-Config
+
 Personal config files for Counter-Strike 2
 
 A CS2 config written and compiled, for & by, chunkymunky0
