@@ -25,3 +25,12 @@ server.cfg
 server_default.cfg
 user_keys_default.vcfg
 It. vcfg
+
+*.cfg
+*.sync/
+*.vcfg
+!autoexec.cfg
+!+jump.cfg
+!-jump.cfg
+!movement/
+!listenserver.cfg
