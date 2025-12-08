@@ -2,9 +2,6 @@
 *.sync/
 *.vcfg
 !autoexec.cfg
-!+jump.cfg
-!-jump.cfg
-!movement/*
 !*/de-subticks/*
 !listenserver.cfg
 !keybinds.cfg
