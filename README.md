@@ -2,6 +2,21 @@
 
 Personal config files for Counter-Strike 2
 
-A CS2 config written and compiled, for & by, chunkymunky0
+A CS2 config written entirely by yours truly
 
-Everything written by yours truly except for the addition of the [Ruby Rain Movement Config v1.2](https://steamcommunity.com/sharedfiles/filedetails/?id=3313210014) which was tweaked to be included into my config
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------ Autoexec Compiled -----
+---- & Written, For & By, ----
+-------- chunkymunky0 --------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
