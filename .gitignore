@@ -2,6 +2,5 @@
 *.sync/
 *.vcfg
 !autoexec.cfg
-!*/de-subticks/*
 !listenserver.cfg
 !keybinds.cfg
