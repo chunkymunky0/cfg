@@ -8,4 +8,4 @@ To be installed in:
 Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
 
-![image](Executed-Autoexec-Confirmation.jpg)
+![image](Executed-Autoexec-Confirmation.png)
