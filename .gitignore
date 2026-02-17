@@ -3,5 +3,4 @@
 *.vcfg
 !autoexec.cfg
 !listenserver.cfg
-!keybinds.cfg
-!MultiActionBinds/*
+!cfgs/*
